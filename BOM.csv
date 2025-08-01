@@ -1,23 +1,9 @@
-WHEEL - https://www.pololu.com/product/3281/specs
-MOTOR - https://www.pololu.com/product/4845/resources
-GEARS - https://www.amazon.com/uxcell-2pcs-Bevel-Gear-Module/dp/B0DFCQ85HG/ref=sr_1_4?crid=1SMHC6BH1W7YG&dib=eyJ2IjoiMSJ9.kmA-MJhzgALr0my3qfibdu6JVYP5K0FK-le67OxWApE4_k-J_wAzkt0C8_VTCkZBhcP-28AKqslWskAgeSHZ91ahLi_jXUWPH0iHUZVq9zinc1dNcpv7Ae7NJ5nd9K6GSBpJjyv2U1FJlC2kOtm9_RLwrTYgBZZzh1ZPrZZHZEOO90ZUYMNT1hjHoxT7qiNzCCw7-J5lpLD6IIOq2CvLTOVg1MYvXdkyEUP6Yp1frJ8.KWKvasyw5Ns5Rb4zsBMwmjO1tvCE9fpjuBJsm9tz3Nw&dib_tag=se&keywords=bevel+gears+4+mm+bore+with+set+screw&qid=1753835699&sprefix=bevel+gears+4+mm+bore+with+set+screw%2Caps%2C150&sr=8-4
-SHAFT - https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/
-BALL BEARINGS - https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/
-IMU SENSOR - https://www.adafruit.com/product/2472
-MOTOR DRIVERS - https://www.pololu.com/product/2999
-RASPBERRY PI PICO - https://www.amazon.com/Pico-RP2350-Microcontroller-Board-CircuitPython/dp/B0DPF9N1MN/ref=sr_1_3?crid=3BALRPENKCL4M&dib=eyJ2IjoiMSJ9.HN7NZbrCMHmiWIA1toyLUrw3s9BFHVgXpTDcEHfCmOfBAiScxmBx6cTH3rqQnb2R3bUNZNwAUz8Q6VBa4U293fBVAnEbz4RPAa-8kgAzuF7aUNnxRajjHXZwtpeJtAkmpYHw2EKTXoN7ekeuJAgkj2rQ8ReC0t58OikFkOAIb6fWpbSB5qUIhOTkcf5hWSj2cTb18snYmBhoPz-cXc4R4-OKXz0eA54vHLTBibRnfp0.i8NUhhUDoI3kIe94tiBVcpm48PDyIcwCnFEXLBPcDLw&dib_tag=se&keywords=rp2350&qid=1754016497&sprefix=rp235%2Caps%2C244&sr=8-3&th=1
-
-
-https://www.pololu.com/product/3281/specs | | MOTOR | https://www.pololu.com/product/4845/resources | | GEARS | https://www.amazon.com/uxcell-2pcs-Bevel-Gear-Module/dp/B0DFCQ85HG | | SHAFT | https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/ | | BALL BEARINGS | https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/ | | IMU SENSOR | https://www.adafruit.com/product/2472 | | MOTOR DRIVERS | https://www.pololu.com/product/2999 | | RASPBERRY PI PICO | https://www.amazon.com/Pico-RP2350-Microcontroller-Board-CircuitPython/dp/B0DPF9N1MN | </pre>
-
-
-| Item Name           | Purpose                                      | Link                                                                 | Cost (USD) | Quantity |
-|---------------------|----------------------------------------------|----------------------------------------------------------------------|------------|----------|
-| Wheel               | For locomotion                               | https://www.pololu.com/product/3281/specs                            | (fill in)  | 4        |
-| Motor               | To drive each wheel                          | https://www.pololu.com/product/4845/resources                        | (fill in)  | 4        |
-| Bevel Gears         | To redirect torque at a 90-degree angle      | https://www.amazon.com/dp/B0DFCQ85HG                                 | (fill in)  | 4        |
-| Shaft               | Connects motor to gear/wheel                 | https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/   | (fill in)  | 4        |
-| Ball Bearings       | To support rotating shafts                   | https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/ | (fill in)  | 4        |
-| IMU Sensor          | For measuring orientation/terrain detection  | https://www.adafruit.com/product/2472                                | (fill in)  | 1        |
-| Motor Drivers       | To control motor speed/direction             | https://www.pololu.com/product/2999                                  | (fill in)  | 2        |
-| Raspberry Pi Pico   | Main microcontroller                         | https://www.amazon.com/dp/B0DPF9N1MN                                 | (fill in)  | 1        |
+Item Name,Purpose,Link,Cost (USD),Quantity
+Wheel,For locomotion,https://www.pololu.com/product/3281/specs,,4
+Motor,To drive each wheel,https://www.pololu.com/product/4845/resources,,4
+Bevel Gears,To redirect torque at a 90-degree angle,https://www.amazon.com/dp/B0DFCQ85HG,,4
+Shaft,Connects motor to gear/wheel,https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/,,4
+Ball Bearings,To support rotating shafts,https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/,,4
+IMU Sensor,For measuring orientation/terrain detection,https://www.adafruit.com/product/2472,,1
+Motor Drivers,To control motor speed/direction,https://www.pololu.com/product/2999,,2
+Raspberry Pi Pico,Main microcontroller,https://www.amazon.com/dp/B0DPF9N1MN,,1
