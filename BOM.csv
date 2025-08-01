@@ -8,10 +8,4 @@ MOTOR DRIVERS - https://www.pololu.com/product/2999
 RASPBERRY PI PICO - https://www.amazon.com/Pico-RP2350-Microcontroller-Board-CircuitPython/dp/B0DPF9N1MN/ref=sr_1_3?crid=3BALRPENKCL4M&dib=eyJ2IjoiMSJ9.HN7NZbrCMHmiWIA1toyLUrw3s9BFHVgXpTDcEHfCmOfBAiScxmBx6cTH3rqQnb2R3bUNZNwAUz8Q6VBa4U293fBVAnEbz4RPAa-8kgAzuF7aUNnxRajjHXZwtpeJtAkmpYHw2EKTXoN7ekeuJAgkj2rQ8ReC0t58OikFkOAIb6fWpbSB5qUIhOTkcf5hWSj2cTb18snYmBhoPz-cXc4R4-OKXz0eA54vHLTBibRnfp0.i8NUhhUDoI3kIe94tiBVcpm48PDyIcwCnFEXLBPcDLw&dib_tag=se&keywords=rp2350&qid=1754016497&sprefix=rp235%2Caps%2C244&sr=8-3&th=1
 
 
-Item Name,Purpose,Link,Cost (USD),Note,Quantity
-Flight Computer PCB,To control the motor and get to right altitude,Online Quotation (Can't share),160.66,"2 qty's inside the order because minimum order",1
-Polulu DC Motor,To actuate the Airbrakes using lead screw,Pololu DC Motor,60.00,,1
-JLC CNC Shaft Adapter,Shaft adapter between Motor Shaft and Lead Screw,Online Quotation (Can't share),100,,1
-T4 Lead Screw,To convert motor rotation to linear movement,AliExpress - T4 Lead Screw,15,,1
-"6, 3, 2, 8 pin Headers",To solder onto the PCB for less money charged,Online Quotation (Can't share),10,"This actually saves money compared to having JLC wave solder it for me",1
-,,,,Total Cost:,345.66
+https://www.pololu.com/product/3281/specs | | MOTOR | https://www.pololu.com/product/4845/resources | | GEARS | https://www.amazon.com/uxcell-2pcs-Bevel-Gear-Module/dp/B0DFCQ85HG | | SHAFT | https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/ | | BALL BEARINGS | https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/ | | IMU SENSOR | https://www.adafruit.com/product/2472 | | MOTOR DRIVERS | https://www.pololu.com/product/2999 | | RASPBERRY PI PICO | https://www.amazon.com/Pico-RP2350-Microcontroller-Board-CircuitPython/dp/B0DPF9N1MN | </pre>
