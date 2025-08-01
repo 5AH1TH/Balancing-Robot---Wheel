@@ -9,7 +9,8 @@ This project is a two-wheeled robot that can balance itself to stay upright at a
 
 # DAY 1 --
 
-Learned and researched about different kinds of self-balancing robots, and all the different parts needed. There are three types of balancing robots: The ones with wheels that don't have hip and leg joints,
+Learned and researched about different kinds of self-balancing robots, and all the different parts needed. There are three types of balancing robots: 
+The ones with wheels that don't have hip and leg joints,
 
 <img width="361" height="385" alt="image" src="https://github.com/user-attachments/assets/f753c927-a561-46b8-9e05-aa2c3dfcc75a" />
 
