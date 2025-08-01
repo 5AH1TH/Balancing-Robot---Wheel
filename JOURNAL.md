@@ -1,6 +1,6 @@
 # My Journal
 
-Total time spent: 35-40 hours
+Total time spent: 30-35 hours
 
 # Summary --
 This project is a two-wheeled robot that can balance itself to stay upright at all times, even when given a push. It is designed to move forware, backward and turn using two separate motors. This robot has a lower center of gravity, hence the height. Furthermore, the robot features a carefully balanced chassis with different platforms screwed on to the outer box, holding the motors, batteries, and the rpi-cm5. It runs on two brushed DC motors connected to the wheels via bevel gears. The robot's structure is optimized for passive stability: a wide wheelbase and a low center of gravity to help reduce tipping. This project is part of a bigger one. I'm conducting a study to determine the optimal robot: a wheel based robot with no hip and knee actuators, a leg based robot with hip and knee actuators (but with no wheels), and a hybrid, a combination of two, where the robot can switch between legs and wheels to traverse terrain easier and faster. My hypothesis is that a hybrid will work the best for traveling rough terrain.
@@ -31,7 +31,7 @@ The cons of option 2 is that its really complex and hard to code, as using compl
 The pros of option 3 is that its very reliable as being able to switch betwween wheels and legs makes the robot more adaptive of the environment. For example, if there is rugged terrain, the robot switches to legs, but if there is smoother terrain, the robot switches to wheels to make it go faster and to save energy.
 The cons of option 3 is that it is pretty hard to cad out.
 
-Time taken: 3 hours
+Time taken: 5 hours
 
 # DAY 2 --
 
@@ -66,7 +66,7 @@ Time taken: 4-5 hours
 
 # Day 5 --
 
-I worked on modeled the bevel gear assembly and figured out placement of the 4 mm round shaft for wheel drive. I worked on cadding the gears to be the optimal distance apart, which was provided by the gear distance calculator. Ensured the bevel gears had the proper 90° interface to match the motor and wheel axes. This took a long time because making everything symmetrical meant that whenever I made a big change to the design, I had to constantly check the placement of the gears and motors to make sure they were still in the right position. If they weren't, I would spend at least 25 minutes fixing it to find the problem, and fix it in a way that doesn't affect any other components. The bevel gear assembly also includes this cantilever structure to help stabilize the shaft as one point of contact would just make the shaft bend.
+I worked on modeled the bevel gear assembly and figured out placement of the 4 mm round shaft for wheel drive. I worked on cadding the gears to be the optimal distance apart, which was provided by the gear distance calculator. I also made sure that the bevel gears had the proper 90° interface to match the motor and wheel axes. This took a long time because making everything symmetrical meant that whenever I made a big change to the design, I had to constantly check the placement of the gears and motors to make sure they were still in the right position. If they weren't, I would spend at least 25 minutes fixing it to find the problem, and fix it in a way that doesn't affect any other components. The bevel gear assembly also includes this cantilever structure to help stabilize the shaft as one point of contact would just make the shaft bend.
 
 Front view: 
 
@@ -85,21 +85,41 @@ Time taken: 3 hours
 
 # Day 6 --
 
-I refined the design of the box to fit the wheels and beveled gear meshing. Added screw mounts and filleted sharp corners. Focused on the rear of the robot where the bevel gear assembly would be most stressed. Conducted torque transfer simulations and ensured the axle could be easily replaced if needed. Designed the robot’s footprint to be symmetrical to improve turning balance and responsiveness.
+I refined the design of the box to fit the wheels and beveled gear meshing. I also added screw mounts and filleted sharp corners to improve aesthetics. I also focused on making sure the bevel gear assembly was properly assembled, using mates wherever I could. I also changed the inner parts of the robot to make the robot even more symmetrical than before. Thats because the symmetricalness of a self balancing robot is one of the most important parts.
+
+Time taken: 3 hours
+
+# Day 7 --
+
+I added screw holes for every single component that was going to be screwed on. I researched different types of screws and determined which would be the best for my project. I determined that threaded screws that are around 12 mm long and have a diameter of 3 mm would be the best for my project. This is what my screw holes look like:
+
+<img width="649" height="670" alt="image" src="https://github.com/user-attachments/assets/387f6e73-098d-43d8-b573-44ef72f4b00c" />
+
+<img width="1043" height="247" alt="image" src="https://github.com/user-attachments/assets/54e7addc-8f8e-4cef-9f71-1af030876476" />
+
+These are just a few examples.
+
+Time taken: 3-4 hours
+
+# Day 8 --
+
+I worked on making the cad look nice and compact. I also organized everything by labeling all the part studios and assemblies for an easier experience with the cad file. I also changed the colors of the components to make it look neat. I did this so that I could take screenshots of the cad after I was fully done cadding.
+
+Time taken: 1-2 hours
+
+# Day 9 and 10 --
+
+I spent the last two days reviewing the design, making minor corrections, such as fixing some height and gear meshing issues, and preparing the model to 3D and share here. I also increased the amount of screw holes for extra sturdiness, and removed any unnecessary parts to reduce the time and cost of 3d printing it.
+
+For example, I changed this to this:
+
+Previously: <img width="386" height="430" alt="image" src="https://github.com/user-attachments/assets/7927a429-4be4-4b14-ad92-8e2e997b299b" />
 
 
+After: <img width="389" height="427" alt="image" src="https://github.com/user-attachments/assets/d0af5e7e-38d5-48a8-b229-a2b5e662e17d" />
 
 
+Made sure the center of gravity was not only low but directly between the two wheels for better passive balance. I also took the pictures at the end.
 
-
-
-
-
-
-
-
-
-
-
-
+Time taken: 6-7 hours
 
