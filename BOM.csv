@@ -5,3 +5,16 @@ SHAFT - https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/
 BALL BEARINGS - https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/
 IMU SENSOR - https://www.adafruit.com/product/2472
 MOTOR DRIVERS - https://www.pololu.com/product/2999
+RASPBERRY PI PICO - https://www.amazon.com/Pico-RP2350-Microcontroller-Board-CircuitPython/dp/B0DPF9N1MN/ref=sr_1_3?crid=3BALRPENKCL4M&dib=eyJ2IjoiMSJ9.HN7NZbrCMHmiWIA1toyLUrw3s9BFHVgXpTDcEHfCmOfBAiScxmBx6cTH3rqQnb2R3bUNZNwAUz8Q6VBa4U293fBVAnEbz4RPAa-8kgAzuF7aUNnxRajjHXZwtpeJtAkmpYHw2EKTXoN7ekeuJAgkj2rQ8ReC0t58OikFkOAIb6fWpbSB5qUIhOTkcf5hWSj2cTb18snYmBhoPz-cXc4R4-OKXz0eA54vHLTBibRnfp0.i8NUhhUDoI3kIe94tiBVcpm48PDyIcwCnFEXLBPcDLw&dib_tag=se&keywords=rp2350&qid=1754016497&sprefix=rp235%2Caps%2C244&sr=8-3&th=1
+
+
+Item Name,Purpose,Link,Cost (USD),Note,Quantity
+Wheel,Main locomotion,Pololu Wheel 90×10mm - https://www.pololu.com/product/3281/specs,6.95,Compatible with 4mm shaft motors,2
+DC Motor,Drives the wheels,Pololu 37D Gearmotor - https://www.pololu.com/product/4845/resources,24.95,High torque brushed motor,2
+Bevel Gears,Transfers motor rotation to wheel axle,uxcell Bevel Gears - https://www.amazon.com/dp/B0DFCQ85HG,11.99,"4mm bore with set screws, steel",1 set
+Shaft (4mm),Connects bevel gears and transfers torque,Servocity Shaft - https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/,3.99,Can be cut to needed length,2
+Ball Bearings,Support rotating shaft and reduce friction,Servocity Bearings - https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/,6.49,Flanged bearings for 4mm shaft,2 (1 pack)
+IMU Sensor,Tilt detection for balance control,Adafruit MPU6050 - https://www.adafruit.com/product/2472,6.95,I2C IMU for real-time feedback,1
+Motor Driver,Controls the motors,Pololu Dual VNH5019 - https://www.pololu.com/product/2999,49.95,Can handle two motors independently,1
+Raspberry Pi Pico,Logic and control,Raspberry Pi Pico - https://www.amazon.com/dp/B0DPF9N1MN,9.99,Microcontroller with C/C++ or MicroPython,1
+,,,,Total Cost:,145.26
