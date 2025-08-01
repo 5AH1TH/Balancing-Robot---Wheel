@@ -7,4 +7,17 @@ This project is a two-wheeled robot that can balance itself to stay upright at a
 <img width="661" height="684" alt="image" src="https://github.com/user-attachments/assets/134cd214-1764-4391-9f9d-d847e31cfb23" />
 <img width="819" height="759" alt="image" src="https://github.com/user-attachments/assets/a311b4b2-9f3d-48b1-8376-9aa3438cf699" />
 
+## BOM
 
+| **Item Name**       | **Purpose**                                     | **Link**                                                                                                   | **Cost (USD)** | **Note**                                                                                     | **Quantity** |
+|---------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------|--------------|
+| Wheel               | For locomotion                                   | [Pololu Listing](https://www.pololu.com/product/3281/specs)                                                | 14.23          | 2 required for both sides                                                                    | 2            |
+| Motor               | To drive each wheel                              | [Pololu Listing](https://www.pololu.com/product/4845/resources)                                            | 65.95          | 2 needed                                                                                      | 2            |
+| Bevel Gears         | To redirect torque at a 90-degree angle          | [Amazon Listing](https://www.amazon.com/dp/B0DFCQ85HG)                                                     | 8.89           | Comes in 2-pack, buying 2 packs gives 4 total gears                                           | 2            |
+| Shaft               | Helps connect motor to gear/wheel                | [ServoCity Listing](https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/)                    | 2.79           | One per side                                                                                 | 2            |
+| Ball Bearings       | To support rotating shafts                       | [ServoCity Listing](https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/)              | 3.49           | Comes in 2-pack, buying 2 packs gives 4 total bearings                                       | 2            |
+| IMU Sensor          | For measuring orientation                        | [Amazon Listing](https://www.amazon.com/dp/B082KQ7L97)                                                     | 6.79           | BMI088-based IMU                                                                            | 1            |
+| Motor Driver        | To control motor speed/direction                 | [Pololu Listing](https://www.pololu.com/product/2999)                                                     | 12.95          | One dual-channel driver is enough                                                            | 1            |
+| Raspberry Pi Pico   | Main microcontroller                             | [Amazon Listing](https://www.amazon.com/dp/B0DPF9N1MN)                                                     | 12.99          | Used to read sensors and control motors                                                      | 1            |
+
+**Total Estimated Cost: \$223.43**
