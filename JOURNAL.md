@@ -18,11 +18,27 @@ the ones without wheels (and with hip and leg joints),
 
 <img width="417" height="695" alt="image" src="https://github.com/user-attachments/assets/cf9a0691-b76c-4c4f-afc7-90de72db3e43" />
 
-and the ones with wheels and hip and leg joints
+and the ones with wheels and hip and leg joints.
 
 <img width="460" height="778" alt="image" src="https://github.com/user-attachments/assets/1e1414b7-0b80-43da-a7fb-6205c8f3be3e" />
 
+The pros of option 1 is that its simple, easy and compact.
+The cons of option 1 is that it isn't very good in rugged terrain, and there isn't much flexibility with it either.
+
+The pros of option 2 is that its pretty reliable, and can traverse terrain easier.
+The cons of option 2 is that its really complex and hard to code, as using complicated machine learning is the only way to get it to reliably work.
+
+The pros of option 3 is that its very reliable as being able to switch betwween wheels and legs makes the robot more adaptive of the environment. For example, if there is rugged terrain, the robot switches to legs, but if there is smoother terrain, the robot switches to wheels to make it go faster and to save energy.
+The cons of option 3 is that it is pretty hard to cad out.
+
 Time taken: 3 hours
+
+# DAY 2 --
+
+I also began drafting rough mechanical sketches of the layout of the robot. I focused on identifying how to place the essential components like motors, batteries so the center of gravity would remain low and centralized. I also looked into bevel gears to ensure that the motor will be able to spin the wheels at the optimal position. I also fixed some errors about placement and issues like motor torque alignment and wheel spin direction.
+
+
+
 
 
 
