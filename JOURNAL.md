@@ -27,9 +27,11 @@ The pros of option 1 is that its simple, easy and compact.
 The cons of option 1 is that it isn't very good in rugged terrain, and there isn't much flexibility with it either.
 
 
+
 The pros of option 2 is that its pretty reliable, and can traverse terrain easier.
 
 The cons of option 2 is that its really complex and hard to code, as using complicated machine learning is the only way to get it to reliably work.
+
 
 
 The pros of option 3 is that its very reliable as being able to switch betwween wheels and legs makes the robot more adaptive of the environment. For example, if there is rugged terrain, the robot switches to legs, but if there is smoother terrain, the robot switches to wheels to make it go faster and to save energy.
