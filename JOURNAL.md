@@ -113,10 +113,14 @@ I spent the last two days reviewing the design, making minor corrections, such a
 
 For example, I changed this to this:
 
-Previously: <img width="386" height="430" alt="image" src="https://github.com/user-attachments/assets/7927a429-4be4-4b14-ad92-8e2e997b299b" />
+Previously: 
+
+<img width="386" height="430" alt="image" src="https://github.com/user-attachments/assets/7927a429-4be4-4b14-ad92-8e2e997b299b" />
 
 
-After: <img width="389" height="427" alt="image" src="https://github.com/user-attachments/assets/d0af5e7e-38d5-48a8-b229-a2b5e662e17d" />
+After: 
+
+<img width="389" height="427" alt="image" src="https://github.com/user-attachments/assets/d0af5e7e-38d5-48a8-b229-a2b5e662e17d" />
 
 
 Made sure the center of gravity was not only low but directly between the two wheels for better passive balance. I also took the pictures at the end.
