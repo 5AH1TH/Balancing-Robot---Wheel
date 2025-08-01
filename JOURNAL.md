@@ -23,19 +23,59 @@ and the ones with wheels and hip and leg joints.
 <img width="460" height="778" alt="image" src="https://github.com/user-attachments/assets/1e1414b7-0b80-43da-a7fb-6205c8f3be3e" />
 
 The pros of option 1 is that its simple, easy and compact.
+
 The cons of option 1 is that it isn't very good in rugged terrain, and there isn't much flexibility with it either.
 
+
 The pros of option 2 is that its pretty reliable, and can traverse terrain easier.
+
 The cons of option 2 is that its really complex and hard to code, as using complicated machine learning is the only way to get it to reliably work.
 
+
 The pros of option 3 is that its very reliable as being able to switch betwween wheels and legs makes the robot more adaptive of the environment. For example, if there is rugged terrain, the robot switches to legs, but if there is smoother terrain, the robot switches to wheels to make it go faster and to save energy.
+
 The cons of option 3 is that it is pretty hard to cad out.
 
 Time taken: 3 hours
 
 # DAY 2 --
 
-I also began drafting rough mechanical sketches of the layout of the robot. I focused on identifying how to place the essential components like motors, batteries so the center of gravity would remain low and centralized. I also looked into bevel gears to ensure that the motor will be able to spin the wheels at the optimal position. I also fixed some errors about placement and issues like motor torque alignment and wheel spin direction.
+I also began drafting rough mechanical sketches of the layout of the robot. I focused on identifying how to place the essential components like motors, batteries so the center of gravity would remain low and centralized. I also looked into bevel gears to ensure that the motor will be able to spin the wheels at the optimal position (90 degrees). I also fixed some errors about placement and issues like motor torque alignment and wheel spin direction (in the diagram).
+
+Time taken: 2 hours
+
+# Day 3 --
+
+I started the CAD design in Onshape. I also started modeled the two-wheel configuration and built the basic structural frame that holds the motors and battery pack, which is essentially the outside box. 
+
+<img width="713" height="676" alt="image" src="https://github.com/user-attachments/assets/aa929648-b3c0-4eaf-afab-9d3a56f86ffc" />
+
+I also created motor mounts with correct shaft spacing to fit perfectly within the limitations of the box. Faced a challenge getting the shaft alignment correct for the bevel gear pairing because the gear distance calculator was extremely specific.
+<img width="375" height="319" alt="image" src="https://github.com/user-attachments/assets/44c35cff-14f5-4072-94de-43c3fb712098" />
+
+Time taken: 3-4 hours
+
+# Day 4 --
+
+Refined CAD model. I modeled it so that everything would be perfectly symmetrical to ensure the best reliability. I also added the platform on top to hold all the electronics.
+
+Platform on top: <img width="1127" height="567" alt="image" src="https://github.com/user-attachments/assets/53f4bfd6-14df-4961-8ba3-b72f3425ef58" />
+
+As said before, I focused heavily on weight distribution, keeping the motors lower and the compute module higher. I also found every single part I would need for the cad. What I used in my cad were bevel gears, motors, shafts, and ball bearings. I also need screws to attach the separate parts to the box.
+
+Time taken: 4-5 hours
+
+# Day 5 --
+
+I worked on modeled the bevel gear assembly and figured out placement of the 4 mm round shaft for wheel drive. I worked on cadding the gears to be the optimal distance apart, which was provided by the gear distance calculator. Ensured the bevel gears had the proper 90° interface to match the motor and wheel axes. This took a long time because making everything symmetrical meant that whenever I made a big change to the design, I had to constantly check the placement of the gears and motors to make sure they were still in the right position. If they weren't, I would spend at least 25 minutes fixing it to find the problem, and fix it in a way that doesn't affect any other components.
+
+Time taken: 3 hours
+
+
+
+
+
+
 
 
 
