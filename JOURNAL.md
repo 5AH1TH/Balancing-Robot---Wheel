@@ -7,7 +7,7 @@ This project is a two-wheeled robot that can balance itself to stay upright at a
 
 
 
-# DAY 1 --
+# DAY 1 -- 7/22/25 --
 
 Learned and researched about different kinds of self-balancing robots, and all the different parts needed. There are three types of balancing robots: 
 The ones with wheels that don't have hip and leg joints,
@@ -33,14 +33,14 @@ The cons of option 3 is that it is pretty hard to cad out.
 
 Time taken: 5 hours
 
-# DAY 2 --
+# DAY 2 -- 7/23/25 --
 
 I also began drafting rough mechanical sketches of the layout of the robot. I focused on identifying how to place the essential components like motors, batteries so the center of gravity would remain low and centralized. I also looked into bevel gears to ensure that the motor will be able to spin the wheels at the optimal position (90 degrees). I also fixed some errors about placement and issues like motor torque alignment and wheel spin direction (in the diagram).
 
 
 Time taken: 2 hours
 
-# Day 3 --
+# Day 3 -- 7/24/25 --
 
 I started the CAD design in Onshape. I also started modeled the two-wheel configuration and built the basic structural frame that holds the motors and battery pack, which is essentially the outside box. 
 
@@ -52,7 +52,7 @@ I also created motor mounts with correct shaft spacing to fit perfectly within t
 
 Time taken: 3-4 hours
 
-# Day 4 --
+# Day 4 -- 7/25/25 --
 
 Refined CAD model. I modeled it so that everything would be perfectly symmetrical to ensure the best reliability. I also added the platform on top to hold all the electronics.
 
@@ -64,7 +64,7 @@ As said before, I focused heavily on weight distribution, keeping the motors low
 
 Time taken: 4-5 hours
 
-# Day 5 --
+# Day 5 -- 7/26/25 --
 
 I worked on modeled the bevel gear assembly and figured out placement of the 4 mm round shaft for wheel drive. I worked on cadding the gears to be the optimal distance apart, which was provided by the gear distance calculator. I also made sure that the bevel gears had the proper 90° interface to match the motor and wheel axes. This took a long time because making everything symmetrical meant that whenever I made a big change to the design, I had to constantly check the placement of the gears and motors to make sure they were still in the right position. If they weren't, I would spend at least 25 minutes fixing it to find the problem, and fix it in a way that doesn't affect any other components. The bevel gear assembly also includes this cantilever structure to help stabilize the shaft as one point of contact would just make the shaft bend.
 
@@ -83,13 +83,13 @@ In context of the robot:
 
 Time taken: 3 hours
 
-# Day 6 --
+# Day 6 -- 7/27/25 --
 
 I refined the design of the box to fit the wheels and beveled gear meshing. I also added screw mounts and filleted sharp corners to improve aesthetics. I also focused on making sure the bevel gear assembly was properly assembled, using mates wherever I could. I also changed the inner parts of the robot to make the robot even more symmetrical than before. Thats because the symmetricalness of a self balancing robot is one of the most important parts.
 
 Time taken: 3 hours
 
-# Day 7 --
+# Day 7 -- 7/28/25 --
 
 I added screw holes for every single component that was going to be screwed on. I researched different types of screws and determined which would be the best for my project. I determined that threaded screws that are around 12 mm long and have a diameter of 3 mm would be the best for my project. This is what my screw holes look like:
 
@@ -101,13 +101,13 @@ These are just a few examples.
 
 Time taken: 3-4 hours
 
-# Day 8 --
+# Day 8 -- 7/29/25 --
 
 I worked on making the cad look nice and compact. I also organized everything by labeling all the part studios and assemblies for an easier experience with the cad file. I also changed the colors of the components to make it look neat. I did this so that I could take screenshots of the cad after I was fully done cadding.
 
 Time taken: 1-2 hours
 
-# Day 9 and 10 --
+# Day 9 and 10 -- 7/30/25 and 7/31/25 --
 
 I spent the last two days reviewing the design, making minor corrections, such as fixing some height and gear meshing issues, and preparing the model to 3D and share here. I also increased the amount of screw holes for extra sturdiness, and removed any unnecessary parts to reduce the time and cost of 3d printing it.
 
@@ -123,7 +123,12 @@ After:
 <img width="389" height="427" alt="image" src="https://github.com/user-attachments/assets/d0af5e7e-38d5-48a8-b229-a2b5e662e17d" />
 
 
-Made sure the center of gravity was not only low but directly between the two wheels for better passive balance. I also took the pictures at the end.
+Made sure the center of gravity was not only low but directly between the two wheels for better passive balance. I also took the pictures at the end. I also worked on the wiring diagram which connects all the electrical parts together.
+
+Wiring Diagram:
+
+<img width="2605" height="1598" alt="image" src="https://github.com/user-attachments/assets/9d6309c3-b59a-43f0-817d-459169af7bc4" />
+
 
 Time taken: 6-7 hours
 
