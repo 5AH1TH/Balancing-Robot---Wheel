@@ -1,7 +1,7 @@
 Item Name,Purpose,Link,Cost (USD),Quantity
 Wheel,For locomotion,https://www.pololu.com/product/3281/specs,14.23,2
 Motor,To drive each wheel,https://www.pololu.com/product/4845/resources,65.95,2
-Bevel Gears,To redirect torque at a 90-degree angle,https://www.amazon.com/dp/B0DFCQ85HG,8.89,4
+Bevel Gears,To redirect torque at a 90-degree angle,https://www.amazon.com/dp/B0DFCQ85HG,8.89,2 (comes in pack of 2 so 4 in total)
 Shaft,Helps connects motor to gear/wheel,https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/,2.79,2
 Ball Bearings,To support rotating shafts,https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/,3.49,2 (comes in pack of 2 so 4 in total)
 IMU Sensor,For measuring orientation,https://www.amazon.com/dp/B082KQ7L97,6.79,1
