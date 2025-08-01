@@ -83,6 +83,12 @@ In context of the robot:
 
 Time taken: 3 hours
 
+# Day 6 --
+
+I refined the design of the box to fit the wheels and beveled gear meshing. Added screw mounts and filleted sharp corners. Focused on the rear of the robot where the bevel gear assembly would be most stressed. Conducted torque transfer simulations and ensured the axle could be easily replaced if needed. Designed the robot’s footprint to be symmetrical to improve turning balance and responsiveness.
+
+
+
 
 
 
