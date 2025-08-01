@@ -22,6 +22,8 @@ and the ones with wheels and hip and leg joints
 
 <img width="460" height="778" alt="image" src="https://github.com/user-attachments/assets/1e1414b7-0b80-43da-a7fb-6205c8f3be3e" />
 
+Time taken: 3 hours
+
 
 
 
