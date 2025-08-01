@@ -67,7 +67,14 @@ Time taken: 4-5 hours
 
 # Day 5 --
 
-I worked on modeled the bevel gear assembly and figured out placement of the 4 mm round shaft for wheel drive. I worked on cadding the gears to be the optimal distance apart, which was provided by the gear distance calculator. Ensured the bevel gears had the proper 90° interface to match the motor and wheel axes. This took a long time because making everything symmetrical meant that whenever I made a big change to the design, I had to constantly check the placement of the gears and motors to make sure they were still in the right position. If they weren't, I would spend at least 25 minutes fixing it to find the problem, and fix it in a way that doesn't affect any other components.
+I worked on modeled the bevel gear assembly and figured out placement of the 4 mm round shaft for wheel drive. I worked on cadding the gears to be the optimal distance apart, which was provided by the gear distance calculator. Ensured the bevel gears had the proper 90° interface to match the motor and wheel axes. This took a long time because making everything symmetrical meant that whenever I made a big change to the design, I had to constantly check the placement of the gears and motors to make sure they were still in the right position. If they weren't, I would spend at least 25 minutes fixing it to find the problem, and fix it in a way that doesn't affect any other components. The bevel gear assembly also includes this cantilever structure to help stabilize the shaft as one point of contact would just make the shaft bend.
+
+Front view: <img width="703" height="542" alt="image" src="https://github.com/user-attachments/assets/14848581-91a6-4902-98a9-e729ef61471a" />
+
+Back view: <img width="530" height="445" alt="image" src="https://github.com/user-attachments/assets/712b7e86-36ad-4aed-af6e-1f3218e17b81" />
+
+In context of the robot: <img width="629" height="480" alt="image" src="https://github.com/user-attachments/assets/cc954b4d-ac96-409a-b926-4e779a7c62dc" />
+
 
 Time taken: 3 hours
 
