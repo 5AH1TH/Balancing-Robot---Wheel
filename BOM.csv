@@ -1,9 +1,10 @@
-Item Name,Purpose,Link,Cost (USD),Quantity
-Wheel,For locomotion,https://www.pololu.com/product/3281/specs,14.23,2
-Motor,To drive each wheel,https://www.pololu.com/product/4845/resources,65.95,2
-Bevel Gears,To redirect torque at a 90-degree angle,https://www.amazon.com/dp/B0DFCQ85HG,8.89,2 (comes in pack of 2 so 4 in total)
-Shaft,Helps connects motor to gear/wheel,https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/,2.79,2
-Ball Bearings,To support rotating shafts,https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/,3.49,2 (comes in pack of 2 so 4 in total)
-IMU Sensor,For measuring orientation,https://www.amazon.com/dp/B082KQ7L97,6.79,1
-Motor Drivers,To control motor speed/direction,https://www.pololu.com/product/2999,12.95,1
-Raspberry Pi Pico,Main microcontroller,https://www.amazon.com/dp/B0DPF9N1MN,12.99,1
+Item Name,Purpose,Link,Cost (USD),Quantity,Total Item Cost (USD)
+Wheel,For locomotion,https://www.pololu.com/product/3281/specs,14.23,2,28.46
+Motor,To drive each wheel,https://www.pololu.com/product/4845/resources,65.95,2,131.90
+Bevel Gears,To redirect torque at a 90-degree angle,https://www.amazon.com/dp/B0DFCQ85HG,8.89,2,17.78
+Shaft,Helps connects motor to gear/wheel,https://www.servocity.com/4mm-shaft-stainless-steel-100mm-length/,2.79,2,5.58
+Ball Bearings,To support rotating shafts,https://www.servocity.com/4mm-id-x-12mm-od-flanged-ball-bearing-2-pack/,3.49,2,6.98
+IMU Sensor,For measuring orientation,https://www.amazon.com/dp/B082KQ7L97,6.79,1,6.79
+Motor Drivers,To control motor speed/direction,https://www.pololu.com/product/2999,12.95,1,12.95
+Raspberry Pi Pico,Main microcontroller,https://www.amazon.com/dp/B0DPF9N1MN,12.99,1,12.99
+,,,,,Total: $223.43
