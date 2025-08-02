@@ -44,7 +44,7 @@ Time taken: 2 hours
 
 I started the CAD design in Onshape. I also started modeled the two-wheel configuration and built the basic structural frame that holds the motors and battery pack, which is essentially the outside box. 
 
-<img width="713" height="676" alt="image" src="https://github.com/user-attachments/assets/aa929648-b3c0-4eaf-afab-9d3a56f86ffc" />
+<img width="654" height="661" alt="image" src="https://github.com/user-attachments/assets/c8ef8c34-a893-43e8-9ad3-c80f6e2d1d04" />
 
 I also created motor mounts with correct shaft spacing to fit perfectly within the limitations of the box. Faced a challenge getting the shaft alignment correct for the bevel gear pairing because the gear distance calculator was extremely specific.
 <img width="375" height="319" alt="image" src="https://github.com/user-attachments/assets/44c35cff-14f5-4072-94de-43c3fb712098" />
