@@ -78,7 +78,7 @@ Back view:
 
 In context of the robot: 
 
-<img width="629" height="480" alt="image" src="https://github.com/user-attachments/assets/cc954b4d-ac96-409a-b926-4e779a7c62dc" />
+<img width="872" height="687" alt="image" src="https://github.com/user-attachments/assets/179a41e1-b256-40bb-9b0a-aff98191ebf4" />
 
 
 Time taken: 3 hours
