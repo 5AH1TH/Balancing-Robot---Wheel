@@ -93,7 +93,7 @@ Time taken: 3 hours
 
 I added screw holes for every single component that was going to be screwed on. I researched different types of screws and determined which would be the best for my project. I determined that threaded screws that are around 12 mm long and have a diameter of 3 mm would be the best for my project. This is what my screw holes look like:
 
-<img width="649" height="670" alt="image" src="https://github.com/user-attachments/assets/387f6e73-098d-43d8-b573-44ef72f4b00c" />
+<img width="742" height="713" alt="image" src="https://github.com/user-attachments/assets/ff7e6677-8a0c-47eb-9fab-d86406d9827d" />
 
 <img width="1043" height="247" alt="image" src="https://github.com/user-attachments/assets/54e7addc-8f8e-4cef-9f71-1af030876476" />
 
